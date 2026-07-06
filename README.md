@@ -23,9 +23,7 @@ You will be asked for your MeiliSearch instance URL and master key. The demo doe
 
 Walkthrough of the dashboard — overview, indexes, documents, settings, tasks, and API keys.
 
-<video src="video.mov" controls width="100%">
-  <a href="video.mov">Download the demo video</a> if your browser cannot play it inline.
-</video>
+https://github.com/bansal/search-admin/blob/main/video.mov
 
 ## Tech stack
 
